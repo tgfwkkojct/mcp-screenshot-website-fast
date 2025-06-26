@@ -1,0 +1,10 @@
+{
+  "name": "mcp-screenshot-website-fast",
+  "version": "0.1.0",
+  "description": "Quickly screenshots webpages and converts to an LLM friendly size",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
