@@ -8,3 +8,4 @@ build/
 dist/
 tmp/
 .pytest_cache/
+.cache/
